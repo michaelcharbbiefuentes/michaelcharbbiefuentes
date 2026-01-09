@@ -1,4 +1,4 @@
-# Hi, I'm Michael Charbbie Fuentes 👋
+#Hi, I'm Michael Charbbie Fuentes 👋
 
 - I'm currently learning Python and hoping to land my first job as a Python Developer
 - Right now, I'm building a small projects to strengthen my coding knowledge.
@@ -9,7 +9,7 @@
 - Object-Oriented Programming
 - Refactoring beginner code into clean architecture
 
-### 🚀 Featured Projects
+###🚀 Featured Projects
 - 🧠 Python Quiz Game (OOP, input validation, clean architecture)
 - ☕ Coffee Machine Simulator (state management, logic separation)
 
