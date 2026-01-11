@@ -10,8 +10,7 @@
 - Refactoring beginner code into clean architecture
 
 ###🚀 Featured Projects
-- 🧠 Python Quiz Game (OOP, input validation, clean architecture)
-- ☕ Coffee Machine Simulator (state management, logic separation)
+- Inspired Hirst Painting
 
 <!--
 **michaelcharbbiefuentes/michaelcharbbiefuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+###🚀 Featured Projects
+- 🧠 Python Quiz Game (OOP, input validation, clean architecture)
+- ☕ Coffee Machine Simulator (state management, logic separation)
 -->
