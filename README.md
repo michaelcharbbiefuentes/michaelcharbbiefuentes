@@ -11,6 +11,7 @@
 
 ###🚀 Featured Projects
 - Inspired Hirst Painting
+- Turtle Racing Game
 
 <!--
 **michaelcharbbiefuentes/michaelcharbbiefuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
