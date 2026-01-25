@@ -8,10 +8,14 @@
 - Python console applications
 - Object-Oriented Programming
 - Refactoring beginner code into clean architecture
+- Recreating classic games while learning the different fundamentals of Python
 
 ###🚀 Featured Projects
 - Inspired Hirst Painting
 - Turtle Racing Game
+- Classic Snake Game
+
+###🔭 I’m currently working on Pong Classic Games
 
 <!--
 **michaelcharbbiefuentes/michaelcharbbiefuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
