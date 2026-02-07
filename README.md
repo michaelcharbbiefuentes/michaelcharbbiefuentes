@@ -14,8 +14,9 @@
 - Inspired Hirst Painting
 - Turtle Racing Game
 - Classic Snake Game
+- Classic Pong Game
 
-###🔭 I’m currently working on Pong Classic Games
+###🔭 I’m currently working on Turtle Crossing Game (Frogger)
 
 <!--
 **michaelcharbbiefuentes/michaelcharbbiefuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
