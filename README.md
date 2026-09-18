@@ -13,8 +13,8 @@ I build business automation systems using Power Platform and Python to improve w
 ## 🚀 Featured Projects
 
 - Leave Management & Automation System (PowerApps + Power Automate)
-- Social Quit Application (in progress)
-- Chat Bot Automation for small business (in progress)
+- CreationGuard (in progress)
+- Chat Bot Automation for small business (planned)
 
 ## 🔭 Currently Working On
 - Transitioning from IT Service Desk to RPA / Automation Engineer role
