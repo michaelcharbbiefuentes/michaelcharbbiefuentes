@@ -1,62 +1,51 @@
-# Hi, I'm Michael Charbbie Fuentes 👋
+Hi, I'm Michael Charbbie Fuentes 👋
 
-💻 IT Service Desk | RPA & Automation Developer
+💻 IT Service Desk | Automation Developer | Python Developer
 
-I build business automation systems using Power Platform and Python to improve workflows, reduce manual work, and improve reporting systems.
+I build automation and productivity solutions using Python, Power Platform, and APIs to improve workflows, reduce repetitive manual work, and turn processes into practical software solutions.
 
-## 🧠 Focus Areas
-- Business Process Automation
-- Workflow Systems (Approvals, Notifications, Tracking)
-- Python for Automation & APIs
-- Data-driven dashboards
+🛠️ Skills & Focus Areas
+🤖 Business Process Automation
+⚙️ Workflow Automation
+🐍 Python Development & Automation
+🔌 API Integration
+📊 Data & Reporting Dashboards
+🧩 Microsoft Power Platform
+🗄️ Git & GitHub
+🚀 Featured Projects
+🛡️ CreationGuard
 
-## 🚀 Featured Projects
+A productivity application designed to help users stay focused on creating, developing, and studying by tracking distracting activities and managing daily distraction limits.
 
-- Leave Management & Automation System (PowerApps + Power Automate)
-- CreationGuard (in progress)
-- Chat Bot Automation for small business (planned)
+Tech: Python | Git | GitHub
+Status: 🚧 In Development
 
-## 🔭 Currently Working On
-- Transitioning from IT Service Desk to RPA / Automation Engineer role
-- Building Python-based automation APIs
+📋 Leave Management & Automation System
 
+A business automation solution designed to streamline leave requests, approvals, notifications, and tracking.
 
+The system has been deployed and is currently being used in my workplace to support the organization's leave management process.
 
-<!--#Hi, I'm Michael Charbbie Fuentes 👋
+Status: ✅ Deployed & In Use
+Tech: Power Apps | Power Automate
 
-- I'm currently learning Python and hoping to land my first job as a Python Developer
-- Right now, I'm building a small projects to strengthen my coding knowledge.
-- I'm passionate on creating and I really enjoy coding. 
+🤖 Small Business Chatbot Automation
 
-##🧠 What I’m Working On
-- Python console applications
-- Object-Oriented Programming
-- Refactoring beginner code into clean architecture
-- Recreating classic games while learning the different fundamentals of Python
+A planned automation project exploring chatbot-based workflows for small businesses.
 
-###🚀 Featured Projects
-- Inspired Hirst Painting
-- Turtle Racing Game
-- Classic Snake Game
-- Classic Pong Game
+Status: 💡 Planned
 
-###🔭 I’m currently working on Turtle Crossing Game (Frogger)-->
+🔭 Currently Working On
+Building CreationGuard as a Python-based productivity application
+Developing Python skills for automation and API integration
+Building projects that combine automation with practical business problems
+Transitioning from IT Service Desk toward Automation / RPA Developer / Python Developer
+📈 My Development Journey
 
-<!--
-**michaelcharbbiefuentes/michaelcharbbiefuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm focused on moving from supporting technology to building solutions with technology.
 
-Here are some ideas to get you started:
+My goal is to develop practical software and automation systems that solve real-world problems, reduce repetitive work, and improve productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📫 Connect With Me
 
-###🚀 Featured Projects
-- 🧠 Python Quiz Game (OOP, input validation, clean architecture)
-- ☕ Coffee Machine Simulator (state management, logic separation)
--->
+Feel free to explore my repositories and follow my development journey.
